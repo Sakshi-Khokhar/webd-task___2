@@ -1,0 +1,57 @@
+h1 {
+   text-align: center;
+}
+p {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.card {
+    box-shadow: 2px 2px 2px 0 rgba(40, 173, 51, 0.897);
+    width: 90%;
+    height: auto;
+    margin: 4% auto 4% auto;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    text-align: center;
+    background-color: rgb(228, 240, 255);
+    border-radius: 2%;
+}
+body {
+    /* For browsers that do not support gradients */
+   background-image: linear-gradient( #ff66ff, #ff6600)
+ }
+
+    /* border: 150px solid;
+    /* padding: 10px; */
+    
+    /* border-image: repeating-linear-gradient(to bottom right, #33475b, #0033CC, #FF77CC, rgb(255, 122, 89)) 20; */
+  
+ul {
+    text-align: center;
+    list-style: inside;
+}
+h2 {
+    border-radius: 10 px;
+    background:rgb(116, 211, 52)
+}
+h1 {
+    border-radius: 10 px;
+    background:rgb(116, 211, 52)
+}
+.checked {
+    color: yellow
+}
+img {
+    padding:4px;
+    border:6px solid #b629cffd;
+    background-color:rgb(197, 134, 189);
+    border-radius: 50%;
+} 
+.yes {
+   text-align:left
+}
+.no {
+    text-align:right
+ }
